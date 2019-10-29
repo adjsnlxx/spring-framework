@@ -1,0 +1,1 @@
+D:\work\spring-framework\MyModule\build\classes\java\main\com\sam\test\AppConfig.class;D:\work\spring-framework\MyModule\build\classes\java\main\com\sam\test\mybeans\User.class

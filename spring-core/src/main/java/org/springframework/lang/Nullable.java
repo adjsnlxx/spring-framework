@@ -45,6 +45,8 @@ import javax.annotation.meta.When;
  * @see NonNullApi
  * @see NonNullFields
  * @see NonNull
+ *
+ * @Nullable注解可以标注在方法、字段、参数之上，表示对应的值可以为空
  */
 @Target({ElementType.METHOD, ElementType.PARAMETER, ElementType.FIELD})
 @Retention(RetentionPolicy.RUNTIME)
